@@ -1,0 +1,3 @@
+Numeros binarios
+421
+000
