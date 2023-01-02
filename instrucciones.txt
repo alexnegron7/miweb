@@ -3,3 +3,10 @@ Números binarios
 000
 
 Da instrucciones a la computadora.
+
+C: Termianl
+make X (se crea le archivo)
+./X (que hay en el archivo)
+rm X (Se elimina archivo X)
+y yes
+ls (lista de los archivos)
