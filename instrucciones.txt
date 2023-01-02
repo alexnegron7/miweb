@@ -1,3 +1,5 @@
-Numeros binarios
+Números binarios
 421
 000
+
+Da instrucciones a la computadora.
